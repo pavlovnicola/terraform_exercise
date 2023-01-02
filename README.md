@@ -59,4 +59,4 @@ Run the plan command to create an execution plan. This will let you preview the 
 terraform apply
 ```
 
-The apply command will actually execute the Terraform plan. In other words, this command will create the resources shown in the diagram above: VPC, EC2. NLB.
+The apply command will actually execute the Terraform plan. In other words, this command will create the resources shown in the diagram above: VPC, EC2 and NLB.
