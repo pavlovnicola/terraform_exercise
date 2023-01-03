@@ -22,7 +22,7 @@ This assignment was tested against the following environment (internal network b
 - 100 GB Disk
 - Terraform v1.3.6
 
-The terraform code was tested against AWS region: eu-central-1
+> The terraform code was tested against AWS region: eu-central-1
 
 ### Prerequisites:
 
