@@ -2,7 +2,7 @@
 
 Here is the flow for the terraform part:
 
-![alt text](https://github.com/pavlovnicola/terraform_exercise/blob/master/terraform-arch.png?raw=true)
+![alt text](https://github.com/pavlovnicola/terraform_exercise/blob/master/terraform-archi.png?raw=true)
 
 ### Description
 
